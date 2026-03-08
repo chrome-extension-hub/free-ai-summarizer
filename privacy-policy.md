@@ -4,27 +4,27 @@ title: Privacy Policy
 description:
 ---
 
-Last updated on Jan 6, 2026
+Last updated on Mar 8, 2026
 
 ## INTRODUCTION
 
-This Privacy Policy outlines the privacy practices concerning all information, data, graphics, content, software applications, and other browser extensions or services provided or made accessible through the Software or the Website. Hereinafter, the Software, the Website, and any other “Dark Mode Reader” services are referred to as the “Service”.
+This Privacy Policy outlines the privacy practices concerning all information, data, graphics, content, software applications, and other browser extensions or services provided or made accessible through the Software or the Website. Hereinafter, the Software, the Website, and any other “Free AI Summarizer” services are referred to as the “Service”.
 
-In this Privacy Policy, “we”, “us”, “our”, and other similar references mean ExtensionHub, while “you”, “your”, and other similar references refer to any specific user of the Service.
+In this Privacy Policy, “we”, “us”, “our”, and other similar references mean AkaratTech, while “you”, “your”, and other similar references refer to any specific user of the Service.
 
-We want to ensure that you are fully informed about our extension, “Dark Mode Reader”, so you understand your interaction with us. Please carefully read this Privacy Policy, as installing our extension or visiting our website implies your acceptance of the practices listed here.
+We want to ensure that you are fully informed about our extension, “Free AI Summarizer”, so you understand your interaction with us. Please carefully read this Privacy Policy, as installing our extension or visiting our website implies your acceptance of the practices listed here.
 
 ## CONTACT INFORMATION
 
-If you have any questions regarding this Privacy Policy, feel free to contact our support service at sedna.tech.ltd@gmail.com.
+If you have any questions regarding this Privacy Policy, feel free to contact our support service at ararattech@gmail.com.
 
 ## USER ACCOUNTS
 
-Creating a user account or providing personal information is not necessary to use “Dark Mode Reader”.
+Creating a user account or providing personal information is not necessary to use “Free AI Summarizer”.
 
 ## PERSONAL INFORMATION
 
-“Dark Mode Reader” does not collect any personal information about you (such as your name, email address, etc.). Additionally, it does not collect or report data about your computer keystrokes or any data unrelated to the services the Extension provides, back to us or anyone else.
+“Free AI Summarizer” does not collect any personal information about you (such as your name, email address, etc.). Additionally, it does not collect or report data about your computer keystrokes or any data unrelated to the services the Extension provides, back to us or anyone else.
 
 We do not access any APIs to obtain personal information, therefore there is no section in this privacy policy about sharing it.
 
@@ -36,7 +36,7 @@ Most web browsers automatically accept cookies, but you can typically adjust you
 
 ## DATA
 
-“Dark Mode Reader” uses local storage to save the user’s settings. All data are stored offline in your browser.
+“Free AI Summarizer” uses local storage to save the user’s settings. All data are stored offline in your browser.
 
 ## ANALYTICS DATA
 
@@ -48,7 +48,7 @@ We prioritize the protection of children while using the internet. We believe pa
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-“Dark Mode Reader” reserves the right to update this privacy policy at any time. When we do, we will update the date at the bottom of this page and send you an email.
+“Free AI Summarizer” reserves the right to update this privacy policy at any time. When we do, we will update the date at the bottom of this page and send you an email.
 
 We encourage users to frequently check this page for any changes to stay informed about how we protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and be aware of modifications.
 
